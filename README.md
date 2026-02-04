@@ -45,13 +45,3 @@ I analyze biological data using a mix of statistical programming and shell scrip
 - 🏆 **MSNZ Postdoctoral Fellowship (2026)**
 - 🏆 **Abstract Achievement Award**, ASH Annual Meeting (2022)
 
----
-
-<div align="center">
-
-### 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moutazhelal&theme=radical&hide_border=true)
-![Moutaz's Stats](https://github-readme-stats.vercel.app/api?username=moutazhelal&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutazhelal&layout=compact&theme=radical&hide_border=true)
-
-</div>
