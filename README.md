@@ -52,7 +52,7 @@ I analyze biological data using a mix of statistical programming and shell scrip
 
 ### 📊 GitHub Activity
 
-![Moutaz's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Moutaz's Stats](https://github-readme-stats.vercel.app/api?username=moutazhelal&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moutazhelal&layout=compact&theme=radical&hide_border=true)
 
 </div>
